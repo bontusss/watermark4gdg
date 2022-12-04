@@ -1,0 +1,2 @@
+Pillow==9.3.0
+watermark.py==0.0.3.post3
